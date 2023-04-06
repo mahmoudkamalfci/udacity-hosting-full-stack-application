@@ -59,7 +59,7 @@ jobs:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
-            echo "# TODO: Install, build, deploy in both apps"
+            echo "# TODO: Install, build, deploy in both apps "
             
 workflows:
   udagram:
