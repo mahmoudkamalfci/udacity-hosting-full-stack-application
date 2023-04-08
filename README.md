@@ -18,5 +18,5 @@
 # diagram
    (https://github.com/mahmoudkamalfci/udacity-deploy-full-stack-app/tree/main/diagram)
 
-# documentation
+# documentation (docs)
     (https://github.com/mahmoudkamalfci/udacity-deploy-full-stack-app/tree/main/docs)
