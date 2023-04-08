@@ -10,3 +10,13 @@
 - `npm run frontend:build` to build frontend project
 - `npm run frontend:start` to start frontend project
 - `npm run api:start` to start backend project
+
+
+ # screenShots 
+    /screenshots
+ 
+# diagram
+    /diagram
+
+# documentation
+    /documentations
