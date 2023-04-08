@@ -12,7 +12,7 @@
 - `npm run api:start` to start backend project
 
 
- # screenShots 
+# screenShots 
    (https://github.com/mahmoudkamalfci/udacity-deploy-full-stack-app/tree/main/screenshots
  )
 # diagram
