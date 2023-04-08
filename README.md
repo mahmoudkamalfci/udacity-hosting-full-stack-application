@@ -13,10 +13,10 @@
 
 
  # screenShots 
-    /screenshots
+    https://github.com/mahmoudkamalfci/udacity-deploy-full-stack-app/tree/main/screenshots
  
 # diagram
-    /diagram
+    https://github.com/mahmoudkamalfci/udacity-deploy-full-stack-app/tree/main/diagram
 
 # documentation
-    /documentations
+    https://github.com/mahmoudkamalfci/udacity-deploy-full-stack-app/tree/main/docs
